@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/vscode/devcontainers/universal:linux"
+  "image": "mcr.microsoft.com/vscode/devcontainers/universal:linux",
   "settings": {
     "terminal.integrated.shell.linux": "/bin/zsh"
   }
